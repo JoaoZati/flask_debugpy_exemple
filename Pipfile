@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-debugpy = "*"
 flask = "*"
+debugpy = "*"
 
 [dev-packages]
 
